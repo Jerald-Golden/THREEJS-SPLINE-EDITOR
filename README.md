@@ -8,13 +8,14 @@ Drag and move objects in the 3D space.
 Delete objects by right-clicking on them.
 
 # Instructions
-Add Objects: Click on the "BOX" or "SPHERE" button to add a box or sphere to the scene. Click on the "CONNECT" button to connect selected objects with a line.
 
-Move Objects: Click and drag an object to move it around the scene.
+Add Objects: Choose and left click on the canvas to place objects.
 
-Connect Objects: Select two objects by clicking on them and then click the "CONNECT" button to create a line between them.
+Move Objects: Double click and drag an object to move it around the scene.
 
-Delete Objects: Hold the Alt key and click on an object to delete it from the scene.
+Connect Objects: Right click on two objects and press "Connect" and continue to right click on othe objects to crate a spline curve.
+
+Delete Objects: Hold Alt and left click on an object to delete it.
 
 # Dependencies
 Three.js (v0.160.0): https://threejs.org/

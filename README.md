@@ -20,6 +20,3 @@ Delete Objects: Hold Alt and left click on an object to delete it.
 # Dependencies
 Three.js (v0.160.0): https://threejs.org/
 jQuery (v3.5.1): https://jquery.com/
-
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.

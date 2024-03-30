@@ -9,8 +9,11 @@ Delete objects by right-clicking on them.
 
 # Instructions
 Add Objects: Click on the "BOX" or "SPHERE" button to add a box or sphere to the scene. Click on the "CONNECT" button to connect selected objects with a line.
+
 Move Objects: Click and drag an object to move it around the scene.
+
 Connect Objects: Select two objects by clicking on them and then click the "CONNECT" button to create a line between them.
+
 Delete Objects: Hold the Alt key and click on an object to delete it from the scene.
 
 # Dependencies

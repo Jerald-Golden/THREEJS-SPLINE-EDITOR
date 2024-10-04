@@ -28,7 +28,7 @@ var camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHei
 camera.position.set(0, 250, 1000);
 
 //renderer
-var renderer = new THREE.WebGLRenderer({ canvas: my_canvas });
+var renderer = new THREE.WebGLRenderer({ canvas: my_canvas, antialiasing: true });
 renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
